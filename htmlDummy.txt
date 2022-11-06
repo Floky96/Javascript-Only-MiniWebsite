@@ -1,0 +1,52 @@
+       + <div class="navBar" id="navBar">
+           + <a class="navBtn">ThisNotThat</a>
+           + <a class="navBtn">Dummy</a>
+           + <a class="navBtn">Michael Scarn</a>
+       + </div>
+       + <div class="containerMain" id="containerMain">
+           + <div class="mainContent">
+               + <img class="thisNotThat" src="../src/img/maxresdefault.webp">
+           + </div>
+       + </div>
+       + <div class="containerMenu" id="containerMenu">
+           + <div class="dummyTextArea">
+               + <span class="dummyText">
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean
+                    massa.
+                    Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam
+                    felis,
+                    ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede
+                    justo,
+                    fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis
+                    vitae,
+                    justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus
+                    elementum
+                    semper
+                    nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend
+                    ac,
+                    enim.
+                    Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus
+                    varius
+                    laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper
+                    ultricies
+                    nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper
+                    libero,
+                    sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id,
+                    lorem.
+                    Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam
+                    quis
+                    ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet
+                    nibh.
+               + </span>
+           + </div>
+       + </div>
+       + <div class="containerMeme" id="containerMeme">
+           + <div class="contentMeme">
+               + <img src="../src/img/main-qimg-59914d2798c991bde75b19fc2677752e-lq.jpg">
+           + </div>
+       + </div>
+       + <div class="footer" id="footer">
+           + <i class="fa-solid fa-poop"></i>
+           + <i class="fa-solid fa-question"></i>
+           + <i class="fa-solid fa-wheelchair"></i>
+       + </div>
